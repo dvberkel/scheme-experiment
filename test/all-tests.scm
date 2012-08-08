@@ -4,3 +4,5 @@
 (load "test/regexp-test.scm")
 
 (run-registered-tests)
+
+(exit)
